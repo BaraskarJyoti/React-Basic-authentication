@@ -25,7 +25,7 @@ class App extends React.Component {
     }
 }
 
-// Forward example
+// Forward ref example
 // class App extends React.Component {
 //     constructor(props) {
 //         super(props);
